@@ -18,7 +18,7 @@ body {
 .wrapper {
     margin: 1.5rem auto;
     width: 100%;
-    max-width: 1024px;
+    max-width: 980px;
     background-color: hsl(0, 5%, 80%);
     box-shadow: 0 4px 10px hsl(0, 3%, 18%);
     text-align: center;
@@ -99,7 +99,7 @@ button:hover {
     color: hsl(52, 51%, 45%);
 }
 
-@media  screen and (max-width: 780px) {
+@media  screen and (max-width: 480px) {
     body {
         font-size: 16px;
     }
