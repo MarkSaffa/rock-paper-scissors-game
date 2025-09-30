@@ -1,7 +1,6 @@
 :root {
     --background-color: hsl(240, 54%, 8%);
 }
-
 * {
     box-sizing: border-box;
     padding: 0;

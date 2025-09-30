@@ -56,6 +56,7 @@ function playGame(playerChoice) {
     computerDisplay.textContent = "✌️";
         break;
  }
+ 
  resultState.textContent = gameResult;
  resultState.classList.remove('winColor', 'loseColor', 'drawColor');
  switch(gameResult) {
